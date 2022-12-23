@@ -7,8 +7,6 @@ I have also worked with several skills, libraries, and frameworks, including Rea
 You can check out my LinkedIn profile at https://www.linkedin.com/in/prakshal-jain-profile/ or my portfolio at https://prakshal-jain.github.io/Portfolio/ for more information about my experience and skills.
 
 ## GitHub Stats
-
-- **Total repositories:** ![GitHub Repo Count](https://img.shields.io/github/repos/prakshal-jain/prakshal-jain?style=flat-square)
 - **Total stars:** ![GitHub Star Count](https://img.shields.io/github/stars/prakshal-jain/prakshal-jain?style=flat-square)
 - **Total followers:** ![GitHub Follower Count](https://img.shields.io/github/followers/prakshal-jain?style=flat-square)
 
